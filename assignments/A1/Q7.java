@@ -1,3 +1,5 @@
+//given a string , find the first non-repeated character in it using stream functions.
+
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Map;
