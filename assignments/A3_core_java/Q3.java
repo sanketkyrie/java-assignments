@@ -1,4 +1,4 @@
-
+/*Create a thread named  fetch Data using thread  extend methodFetch data should  implement sleep method  with 5000ms timeCreate a thread named  processData  using  runnable  interfaceMake sure processData  starts its execution only after fetchData thread has  completed its execution with the timeout of 10000ms*/
 
 class FetchData extends Thread{
     public void run(){
