@@ -1,3 +1,5 @@
+//Write a Java Program to iterate HashMap using While and advance for loop
+
 import java.util.*;
 
 public class Q1{
