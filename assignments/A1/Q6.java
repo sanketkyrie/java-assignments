@@ -1,3 +1,5 @@
+//given a string,find the first repeated character in it using stram funcions
+
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Map;
