@@ -1,3 +1,4 @@
+/*Create a resource called message ○Message will have text as the field and isEmpty as the condition○It has two synchronized functions read and write●Create a writer thread that writes resource●Create a reader thread that reads resource*/
 
 class Message{
     private String data;  
