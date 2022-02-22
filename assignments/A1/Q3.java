@@ -1,3 +1,5 @@
+//write a java program to iterate arraylist using for-loop , while-loop,and advance for loop.
+
 import java.util.*;
 
 public class Q3 {
