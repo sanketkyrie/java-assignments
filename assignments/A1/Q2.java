@@ -1,3 +1,5 @@
+//write a java program to count the number of words in a string using hashMap.
+
 import java.io.*;
 import java.util.*;
 class Q2 {
