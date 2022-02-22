@@ -1,3 +1,5 @@
+//Implement your  own abstract  classes and  interfaces
+
 interface area{
     void squareArea(int side);
 }
