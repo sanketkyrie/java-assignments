@@ -1,3 +1,5 @@
+//find duplicate character in a string 
+
 public class Q4 {  
      public static void main(String[] args) {  
         String string1 = "With Great responsibility comes Great Power";  
